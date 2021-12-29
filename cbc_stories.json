@@ -333,8 +333,8 @@
         {
             "url": "https://www.cbc.ca/news/politics/csis-climate-change-intelligence-refugees-flooding-1.6284133",
             "comment_state_data": "complete",
-            "comment_state_page": "open",
-            "comment_count_page": "1815",
+            "comment_state_page": "closed",
+            "comment_count_page": "2091",
             "comment_count_data": "528",
             "story_title": "A cold war in a hotter world: Canada's intelligence sector confronts climate change",
             "story_date": "2021-12-28",
@@ -363,8 +363,8 @@
         {
             "url": "https://www.cbc.ca/news/canada/nova-scotia/population-growth-nova-scotia-one-million-people-1.6292823",
             "comment_state_data": "complete",
-            "comment_state_page": "open",
-            "comment_count_page": "1554",
+            "comment_state_page": "closed",
+            "comment_count_page": "1732",
             "comment_count_data": "1479",
             "story_title": "Young people flocking to Nova Scotia as population reaches 1 million milestone",
             "story_date": "2021-12-28",
@@ -373,11 +373,22 @@
         {
             "url": "https://www.cbc.ca/news/politics/pandemic-climate-change-opioid-crisis-canada-1.6289825",
             "comment_state_data": "new",
-            "comment_state_page": "",
-            "comment_count_page": "",
+            "comment_state_page": "open",
+            "comment_count_page": "719",
+            "comment_count_data": "580",
+            "story_title": "Nothing concentrates the mind like a crisis \u2014 or a lot of them landing at once",
+            "story_date": "2021-12-29",
+            "csv": "yes"
+        },
+        {
+            "url": "https://www.cbc.ca/news/politics/ukraine-russia-cyberwarfare-attacks-experts-warn-1.6296004",
+            "comment_state_data": "new",
+            "comment_state_page": "open",
+            "comment_count_page": "204",
             "comment_count_data": "",
-            "story_title": "",
-            "story_date": ""
+            "story_title": "As Ukraine crisis heats up, so will cyberattacks, experts warn",
+            "story_date": "2021-12-29",
+            "csv": "no"
         }
     ]
 }
