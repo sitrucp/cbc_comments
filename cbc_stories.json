@@ -374,7 +374,7 @@
             "url": "https://www.cbc.ca/news/politics/pandemic-climate-change-opioid-crisis-canada-1.6289825",
             "comment_state_data": "complete",
             "comment_state_page": "open",
-            "comment_count_page": "719",
+            "comment_count_page": "780",
             "comment_count_data": "580",
             "story_title": "Nothing concentrates the mind like a crisis \u2014 or a lot of them landing at once",
             "story_date": "2021-12-29",
@@ -382,13 +382,13 @@
         },
         {
             "url": "https://www.cbc.ca/news/politics/ukraine-russia-cyberwarfare-attacks-experts-warn-1.6296004",
-            "comment_state_data": "new",
+            "comment_state_data": "complete",
             "comment_state_page": "open",
-            "comment_count_page": "204",
-            "comment_count_data": "",
+            "comment_count_page": "236",
+            "comment_count_data": "207",
             "story_title": "As Ukraine crisis heats up, so will cyberattacks, experts warn",
             "story_date": "2021-12-29",
-            "csv": "no"
+            "csv": "yes"
         }
     ]
 }
