@@ -485,7 +485,7 @@
         "story_date": "2021-12-31",
         "comment_status": "open",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "retrieval_status": "complete",
         "comment_count_site": "2642",
         "comment_count_retrieved": "2188",
         "comment_retrieved_pct": 82,
