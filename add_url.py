@@ -8,12 +8,14 @@ print("Url is: " + new_url)
 # create new story object
 new_story = {
     "url": new_url,
-    "comment_state_data": "new",
-    "comment_state_page": "",
-    "comment_count_page": "",
-    "comment_count_data": "",
+    "retrieval_status": "new",
+    "story_status": "open",
     "story_title": "",
-    "story_date": ""
+    "story_date": "",
+    "comment_count_site": "",
+    "comment_count_retrieved": "0",
+    "comment_retrieved_pct": "0",
+    "csv": "no"
 }
 
 # open json file
