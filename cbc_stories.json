@@ -8,8 +8,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "5666",
         "comment_count_retrieved": "3490",
-        "comment_retrieved_pct": 61,
-        "csv": "yes"
+        "comment_retrieved_pct": 61
     },
     {
         "url": "https://www.cbc.ca/news/politics/national-security-committee-1.6183998",
@@ -20,8 +19,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2478",
         "comment_count_retrieved": "1760",
-        "comment_retrieved_pct": 71,
-        "csv": "yes"
+        "comment_retrieved_pct": 71
     },
     {
         "url": "https://www.cbc.ca/news/politics/rcmp-negigence-bullying-lawsuit-1.6185298",
@@ -32,8 +30,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "324",
         "comment_count_retrieved": "289",
-        "comment_retrieved_pct": 89,
-        "csv": "yes"
+        "comment_retrieved_pct": 89
     },
     {
         "url": "https://www.cbc.ca/news/politics/meng-wanzhou-us-court-1.6188093",
@@ -44,8 +41,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "6749",
         "comment_count_retrieved": "2622",
-        "comment_retrieved_pct": 38,
-        "csv": "yes"
+        "comment_retrieved_pct": 38
     },
     {
         "url": "https://www.cbc.ca/news/politics/garneau-kovrig-spavor-1.6190100",
@@ -54,10 +50,9 @@
         "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "2087",
+        "comment_count_site": "2045",
         "comment_count_retrieved": "2219",
-        "comment_retrieved_pct": 106,
-        "csv": "yes"
+        "comment_retrieved_pct": 108
     },
     {
         "url": "https://www.cbc.ca/news/politics/rcmp-union-mandatory-vaccination-1.6190803",
@@ -68,8 +63,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2652",
         "comment_count_retrieved": "2306",
-        "comment_retrieved_pct": 86,
-        "csv": "yes"
+        "comment_retrieved_pct": 86
     },
     {
         "url": "https://www.cbc.ca/news/politics/trudeau-carbon-tax-global-1.6233936",
@@ -80,8 +74,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "3470",
         "comment_count_retrieved": "3235",
-        "comment_retrieved_pct": 93,
-        "csv": "yes"
+        "comment_retrieved_pct": 93
     },
     {
         "url": "https://www.cbc.ca/news/politics/otoole-canada-drowning-debt-division-1.6260797",
@@ -92,8 +85,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "6574",
         "comment_count_retrieved": "5733",
-        "comment_retrieved_pct": 87,
-        "csv": "yes"
+        "comment_retrieved_pct": 87
     },
     {
         "url": "https://www.cbc.ca/news/politics/unvaccinated-travellers-rules-1.6267648",
@@ -104,8 +96,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2291",
         "comment_count_retrieved": "2165",
-        "comment_retrieved_pct": 94,
-        "csv": "yes"
+        "comment_retrieved_pct": 94
     },
     {
         "url": "https://www.cbc.ca/news/opinion/opinion-covid-measures-gaslighting-shifting-goalposts-1.6268380",
@@ -116,8 +107,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "8539",
         "comment_count_retrieved": "7801",
-        "comment_retrieved_pct": 91,
-        "csv": "yes"
+        "comment_retrieved_pct": 91
     },
     {
         "url": "https://www.cbc.ca/news/politics/trudeau-diplomatic-boycott-winter-olympic-games-1.6277773",
@@ -128,8 +118,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "4097",
         "comment_count_retrieved": "3828",
-        "comment_retrieved_pct": 93,
-        "csv": "yes"
+        "comment_retrieved_pct": 93
     },
     {
         "url": "https://www.cbc.ca/news/politics/wanping-zheng-space-company-1.6283543",
@@ -140,8 +129,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "547",
         "comment_count_retrieved": "490",
-        "comment_retrieved_pct": 89,
-        "csv": "yes"
+        "comment_retrieved_pct": 89
     },
     {
         "url": "https://www.cbc.ca/news/politics/csis-trudeau-china-media-1.6270750",
@@ -152,8 +140,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2867",
         "comment_count_retrieved": "2820",
-        "comment_retrieved_pct": 98,
-        "csv": "yes"
+        "comment_retrieved_pct": 98
     },
     {
         "url": "https://www.cbc.ca/news/world/mexico-minister-canada-autos-1.6289051",
@@ -164,8 +151,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "1454",
         "comment_count_retrieved": "1363",
-        "comment_retrieved_pct": 93,
-        "csv": "yes"
+        "comment_retrieved_pct": 93
     },
     {
         "url": "https://www.cbc.ca/news/health/omnicron-covid-varian-travel-holidays-1.6285713",
@@ -176,8 +162,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "1174",
         "comment_count_retrieved": "1179",
-        "comment_retrieved_pct": 100,
-        "csv": "yes"
+        "comment_retrieved_pct": 100
     },
     {
         "url": "https://www.cbc.ca/news/politics/ransomware-critical-infrastructure-cse-1.6274982",
@@ -188,8 +173,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "303",
         "comment_count_retrieved": "294",
-        "comment_retrieved_pct": 97,
-        "csv": "yes"
+        "comment_retrieved_pct": 97
     },
     {
         "url": "https://www.cbc.ca/news/politics/freeland-ng-threatens-us-senators-1.6281713",
@@ -200,8 +184,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "3385",
         "comment_count_retrieved": "2958",
-        "comment_retrieved_pct": 87,
-        "csv": "yes"
+        "comment_retrieved_pct": 87
     },
     {
         "url": "https://www.cbc.ca/news/politics/navy-classified-electronics-lost-1.6277938",
@@ -212,8 +195,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "575",
         "comment_count_retrieved": "553",
-        "comment_retrieved_pct": 96,
-        "csv": "yes"
+        "comment_retrieved_pct": 96
     },
     {
         "url": "https://www.cbc.ca/news/politics/brossard-quebec-csa-iceland-status-china-1.6278292",
@@ -224,8 +206,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "301",
         "comment_count_retrieved": "289",
-        "comment_retrieved_pct": 96,
-        "csv": "yes"
+        "comment_retrieved_pct": 96
     },
     {
         "url": "https://www.cbc.ca/sports/olympics/china-response-canada-us-boycott-winter-olympic-games-1.6279175",
@@ -236,8 +217,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2969",
         "comment_count_retrieved": "2794",
-        "comment_retrieved_pct": 94,
-        "csv": "yes"
+        "comment_retrieved_pct": 94
     },
     {
         "url": "https://www.cbc.ca/news/politics/trudeau-diplomatic-boycott-winter-olympic-games-1.6277773",
@@ -248,8 +228,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "4097",
         "comment_count_retrieved": "3828",
-        "comment_retrieved_pct": 93,
-        "csv": "yes"
+        "comment_retrieved_pct": 93
     },
     {
         "url": "https://www.cbc.ca/news/politics/csis-trudeau-china-media-1.6270750",
@@ -260,8 +239,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2867",
         "comment_count_retrieved": "2820",
-        "comment_retrieved_pct": 98,
-        "csv": "yes"
+        "comment_retrieved_pct": 98
     },
     {
         "url": "https://www.cbc.ca/news/politics/omicron-testing-flights-1.6289497",
@@ -272,8 +250,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2508",
         "comment_count_retrieved": "2407",
-        "comment_retrieved_pct": 95,
-        "csv": "yes"
+        "comment_retrieved_pct": 95
     },
     {
         "url": "https://www.cbc.ca/news/health/extra-vaccines-donation-pledge-1.6288998",
@@ -284,8 +261,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "994",
         "comment_count_retrieved": "893",
-        "comment_retrieved_pct": 89,
-        "csv": "yes"
+        "comment_retrieved_pct": 89
     },
     {
         "url": "https://www.cbc.ca/news/health/omicron-variant-hong-kong-study-1.6287519",
@@ -296,8 +272,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2979",
         "comment_count_retrieved": "2484",
-        "comment_retrieved_pct": 83,
-        "csv": "yes"
+        "comment_retrieved_pct": 83
     },
     {
         "url": "https://www.cbc.ca/news/canada/marketplace-carbonated-water-test-1.6245588",
@@ -308,8 +283,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "375",
         "comment_count_retrieved": "376",
-        "comment_retrieved_pct": 100,
-        "csv": "yes"
+        "comment_retrieved_pct": 100
     },
     {
         "url": "https://www.cbc.ca/news/canada/montreal/new-closures-covid-19-quebec-1.6292622",
@@ -320,8 +294,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "4736",
         "comment_count_retrieved": "4428",
-        "comment_retrieved_pct": 93,
-        "csv": "yes"
+        "comment_retrieved_pct": 93
     },
     {
         "url": "https://www.cbc.ca/news/canada/ottawa/chalk-river-nuclear-accident-1.6293574",
@@ -332,8 +305,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "1009",
         "comment_count_retrieved": "964",
-        "comment_retrieved_pct": 95,
-        "csv": "yes"
+        "comment_retrieved_pct": 95
     },
     {
         "url": "https://www.cbc.ca/news/science/webb-telescope-1.6295339",
@@ -344,8 +316,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "478",
         "comment_count_retrieved": "458",
-        "comment_retrieved_pct": 95,
-        "csv": "yes"
+        "comment_retrieved_pct": 95
     },
     {
         "url": "https://www.cbc.ca/news/politics/putin-nato-ukraine-annual-news-conference-1.6296150",
@@ -356,8 +327,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "3481",
         "comment_count_retrieved": "3475",
-        "comment_retrieved_pct": 99,
-        "csv": "yes"
+        "comment_retrieved_pct": 99
     },
     {
         "url": "https://www.cbc.ca/news/politics/trudeau-50-1971-parallels-1.6296362",
@@ -366,10 +336,9 @@
         "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "1520",
+        "comment_count_site": "1460",
         "comment_count_retrieved": "1465",
-        "comment_retrieved_pct": 96,
-        "csv": "yes"
+        "comment_retrieved_pct": 100
     },
     {
         "url": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-dec24-2021-1.6297422",
@@ -380,8 +349,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2662",
         "comment_count_retrieved": "2693",
-        "comment_retrieved_pct": 101,
-        "csv": "yes"
+        "comment_retrieved_pct": 101
     },
     {
         "url": "https://www.cbc.ca/news/politics/tourism-minister-recovery-staff-borders-1.6287730",
@@ -392,8 +360,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "1283",
         "comment_count_retrieved": "1247",
-        "comment_retrieved_pct": 97,
-        "csv": "yes"
+        "comment_retrieved_pct": 97
     },
     {
         "url": "https://www.cbc.ca/news/politics/csis-climate-change-intelligence-refugees-flooding-1.6284133",
@@ -404,8 +371,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2081",
         "comment_count_retrieved": "2092",
-        "comment_retrieved_pct": 100,
-        "csv": "yes"
+        "comment_retrieved_pct": 100
     },
     {
         "url": "https://www.cbc.ca/news/politics/britain-uk-canada-arctic-defence-submarines-russia-china-1.6187347",
@@ -416,8 +382,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "2700",
         "comment_count_retrieved": "2417",
-        "comment_retrieved_pct": 89,
-        "csv": "yes"
+        "comment_retrieved_pct": 89
     },
     {
         "url": "https://www.cbc.ca/news/politics/national-security-climate-change-pandemic-trudeau-canada-1.6273226",
@@ -428,8 +393,7 @@
         "retrieval_status": "complete",
         "comment_count_site": "759",
         "comment_count_retrieved": "751",
-        "comment_retrieved_pct": 98,
-        "csv": "yes"
+        "comment_retrieved_pct": 98
     },
     {
         "url": "https://www.cbc.ca/news/canada/nova-scotia/population-growth-nova-scotia-one-million-people-1.6292823",
@@ -440,32 +404,29 @@
         "retrieval_status": "complete",
         "comment_count_site": "1731",
         "comment_count_retrieved": "1479",
-        "comment_retrieved_pct": 85,
-        "csv": "yes"
+        "comment_retrieved_pct": 85
     },
     {
         "url": "https://www.cbc.ca/news/politics/pandemic-climate-change-opioid-crisis-canada-1.6289825",
         "story_title": "Nothing concentrates the mind like a crisis \u2014 or a lot of them landing at once",
         "story_date": "2021-12-29",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "2543",
+        "comment_count_site": "2491",
         "comment_count_retrieved": "2457",
-        "comment_retrieved_pct": 96,
-        "csv": "yes"
+        "comment_retrieved_pct": 98
     },
     {
         "url": "https://www.cbc.ca/news/politics/ukraine-russia-cyberwarfare-attacks-experts-warn-1.6296004",
         "story_title": "As Ukraine crisis heats up, so will cyberattacks, experts warn",
         "story_date": "2021-12-29",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "1175",
+        "comment_count_site": "1185",
         "comment_count_retrieved": "1176",
-        "comment_retrieved_pct": 100,
-        "csv": "yes"
+        "comment_retrieved_pct": 99
     },
     {
         "url": "https://www.cbc.ca/news/canada/ottawa/starlink-high-speed-internet-rural-ontario-1.5937037",
@@ -476,19 +437,39 @@
         "retrieval_status": "complete",
         "comment_count_site": "940",
         "comment_count_retrieved": "840",
-        "comment_retrieved_pct": 89,
-        "csv": "yes"
+        "comment_retrieved_pct": 89
     },
     {
         "url": "https://www.cbc.ca/news/canada/british-columbia/dr-bonnie-henry-year-ender-1.6301202",
         "story_title": "Dr. Bonnie Henry says 'new game' with Omicron variant could signal end of COVID-19 pandemic",
         "story_date": "2021-12-31",
-        "comment_status": "open",
-        "html_to_csv": "no",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "2642",
+        "comment_count_site": "2850",
         "comment_count_retrieved": "2188",
-        "comment_retrieved_pct": 82,
-        "csv": "yes"
+        "comment_retrieved_pct": 76
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-jan2-2022-1.6302053",
+        "story_title": "Coronavirus: What's happening in Canada and around the world on Sunday",
+        "story_date": "2022-01-03",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "7831",
+        "comment_count_retrieved": "3471",
+        "comment_retrieved_pct": 44
+    },
+    {
+        "url": "https://www.cbc.ca/news/business/supply-chain-column-don-pittis-1.6219217",
+        "story_title": "Canadian supply delays come as a warning that future interruptions could be worse",
+        "story_date": "2021-10-25",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "2221",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0"
     }
 ]
