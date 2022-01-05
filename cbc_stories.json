@@ -446,9 +446,9 @@
         "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "2850",
+        "comment_count_site": "2818",
         "comment_count_retrieved": "2188",
-        "comment_retrieved_pct": 76
+        "comment_retrieved_pct": 77
     },
     {
         "url": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-jan2-2022-1.6302053",
@@ -457,7 +457,7 @@
         "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "7831",
+        "comment_count_site": "7814",
         "comment_count_retrieved": "3471",
         "comment_retrieved_pct": 44
     },
@@ -466,10 +466,10 @@
         "story_title": "Canadian supply delays come as a warning that future interruptions could be worse",
         "story_date": "2021-10-25",
         "comment_status": "closed",
-        "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
         "comment_count_site": "2221",
-        "comment_count_retrieved": "",
-        "comment_retrieved_pct": "0"
+        "comment_count_retrieved": "2165",
+        "comment_retrieved_pct": 97
     }
 ]
