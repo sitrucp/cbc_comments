@@ -473,17 +473,6 @@
         "comment_retrieved_pct": 97
     },
     {
-        "url": "https://www.cbc.ca/news/politics/trudeau-unvaccinated-canadians-covid-hospitals-1.6305159",
-        "story_title": "Trudeau says Canadians are 'angry' and 'frustrated' with the unvaccinated",
-        "story_date": "2022-01-06",
-        "comment_status": "closed",
-        "html_to_csv": "yes",
-        "retrieval_status": "complete",
-        "comment_count_site": "11840",
-        "comment_count_retrieved": "3210",
-        "comment_retrieved_pct": 27
-    },
-    {
         "url": "https://www.cbc.ca/news/canada/montreal/vaccination-passport-saq-sqdc-covid-hospitalizations-1.6305992",
         "story_title": "Quebec expands vaccine passports to liquor, cannabis stores, with 3rd dose requirement on the way",
         "story_date": "2022-01-07",
@@ -493,5 +482,27 @@
         "comment_count_site": "2852",
         "comment_count_retrieved": "2852",
         "comment_retrieved_pct": 100
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/trudeau-unvaccinated-canadians-covid-hospitals-1.6305159",
+        "story_title": "Trudeau says Canadians are 'angry' and 'frustrated' with the unvaccinated",
+        "story_date": "2022-01-06",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "10821",
+        "comment_count_retrieved": "4131",
+        "comment_retrieved_pct": 38
+    },
+    {
+        "url": "https://www.cbc.ca/news/health/covid-19-vaccine-study-omicron-anti-vaxxers-1.6315890",
+        "story_title": "Canadian COVID-19 vaccine study seized on by anti-vaxxers \u2014 highlighting dangers of early research in pandemic",
+        "story_date": "2022-01-15",
+        "comment_status": "open",
+        "html_to_csv": "yes",
+        "retrieval_status": "pending",
+        "comment_count_site": "8630",
+        "comment_count_retrieved": "3345",
+        "comment_retrieved_pct": 38
     }
 ]
