@@ -500,7 +500,7 @@
         "story_date": "2022-01-15",
         "comment_status": "open",
         "html_to_csv": "yes",
-        "retrieval_status": "pending",
+        "retrieval_status": "complete",
         "comment_count_site": "8630",
         "comment_count_retrieved": "3345",
         "comment_retrieved_pct": 38
