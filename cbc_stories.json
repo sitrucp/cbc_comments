@@ -501,8 +501,52 @@
         "comment_status": "open",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "8630",
+        "comment_count_site": "10788",
         "comment_count_retrieved": "3345",
-        "comment_retrieved_pct": 38
+        "comment_retrieved_pct": 31
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/ukraine-russia-nato-stoltenberg-1.6316037",
+        "story_title": "It's up to Russia to prevent war in Ukraine, NATO chief says",
+        "story_date": "2022-01-17",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "2561",
+        "comment_count_retrieved": "2414",
+        "comment_retrieved_pct": 94
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/montreal/quebec-hospital-workers-1.6317487",
+        "story_title": "Quebec calls on bureaucrats to work in hospitals amid staffing shortage",
+        "story_date": "2022-01-17",
+        "comment_status": "open",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "493",
+        "comment_count_retrieved": "473",
+        "comment_retrieved_pct": 95
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/winter-weather-ontario-snow-jan17-2022-1.6317370",
+        "story_title": "Weather watch: What you need to know about the winter blast in Ontario",
+        "story_date": "2022-01-18",
+        "comment_status": "open",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "930",
+        "comment_count_retrieved": "547",
+        "comment_retrieved_pct": 58
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/toronto/ontario-casino-revenue-government-1.6316064",
+        "story_title": "Ford government could lose $2.8B over 5 years in online gambling bet, confidential report warns",
+        "story_date": "2022-01-17",
+        "comment_status": "open",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "2020",
+        "comment_count_retrieved": "2001",
+        "comment_retrieved_pct": 99
     }
 ]
