@@ -498,10 +498,10 @@
         "url": "https://www.cbc.ca/news/health/covid-19-vaccine-study-omicron-anti-vaxxers-1.6315890",
         "story_title": "Canadian COVID-19 vaccine study seized on by anti-vaxxers \u2014 highlighting dangers of early research in pandemic",
         "story_date": "2022-01-15",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "10788",
+        "comment_count_site": "10785",
         "comment_count_retrieved": "3345",
         "comment_retrieved_pct": 31
     },
@@ -519,34 +519,67 @@
     {
         "url": "https://www.cbc.ca/news/canada/montreal/quebec-hospital-workers-1.6317487",
         "story_title": "Quebec calls on bureaucrats to work in hospitals amid staffing shortage",
-        "story_date": "2022-01-17",
-        "comment_status": "open",
+        "story_date": "2022-01-18",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "493",
+        "comment_count_site": "509",
         "comment_count_retrieved": "473",
-        "comment_retrieved_pct": 95
+        "comment_retrieved_pct": 92
     },
     {
         "url": "https://www.cbc.ca/news/canada/winter-weather-ontario-snow-jan17-2022-1.6317370",
         "story_title": "Weather watch: What you need to know about the winter blast in Ontario",
         "story_date": "2022-01-18",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "930",
+        "comment_count_site": "995",
         "comment_count_retrieved": "547",
-        "comment_retrieved_pct": 58
+        "comment_retrieved_pct": 54
     },
     {
         "url": "https://www.cbc.ca/news/canada/toronto/ontario-casino-revenue-government-1.6316064",
         "story_title": "Ford government could lose $2.8B over 5 years in online gambling bet, confidential report warns",
         "story_date": "2022-01-17",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "2041",
+        "comment_count_retrieved": "2001",
+        "comment_retrieved_pct": 98
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/russia-ukraine-invasion-explained-1.6320594",
+        "story_title": "Russia could be on the brink of invading Ukraine. Here's what might happen next",
+        "story_date": "2022-01-20",
         "comment_status": "open",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "2020",
-        "comment_count_retrieved": "2001",
-        "comment_retrieved_pct": 99
+        "comment_count_site": "3423",
+        "comment_count_retrieved": "3094",
+        "comment_retrieved_pct": 90
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-surgeries-north-dakota-fargo-wfpcbc-cbc-1.6319862",
+        "story_title": "Manitoba plans to send as many as 300 spinal-surgery patients to Fargo",
+        "story_date": "2022-01-19",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1349",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0"
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/rudy-giuliani-subpoenaed-jan-6-1.6319598",
+        "story_title": "Rudy Giuliani, other Trump allies subpoenaed by U.S. House panel investigating Jan. 6",
+        "story_date": "2022-01-19",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "2269",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0"
     }
 ]
