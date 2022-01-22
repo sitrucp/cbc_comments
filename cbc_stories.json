@@ -556,7 +556,7 @@
         "comment_status": "open",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "4025",
+        "comment_count_site": "4029",
         "comment_count_retrieved": "3094",
         "comment_retrieved_pct": 76
     },
@@ -567,9 +567,9 @@
         "comment_status": "open",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "590",
+        "comment_count_site": "672",
         "comment_count_retrieved": "454",
-        "comment_retrieved_pct": 76
+        "comment_retrieved_pct": 67
     },
     {
         "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-surgeries-north-dakota-fargo-wfpcbc-cbc-1.6319862",
@@ -587,10 +587,10 @@
         "story_title": "Rudy Giuliani, other Trump allies subpoenaed by U.S. House panel investigating Jan. 6",
         "story_date": "2022-01-19",
         "comment_status": "closed",
-        "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
         "comment_count_site": "2269",
-        "comment_count_retrieved": "",
-        "comment_retrieved_pct": "0"
+        "comment_count_retrieved": "2016",
+        "comment_retrieved_pct": 88
     }
 ]
