@@ -553,12 +553,12 @@
         "url": "https://www.cbc.ca/news/politics/russia-ukraine-invasion-explained-1.6320594",
         "story_title": "Russia could be on the brink of invading Ukraine. Here's what might happen next",
         "story_date": "2022-01-21",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "4029",
+        "comment_count_site": "3964",
         "comment_count_retrieved": "3094",
-        "comment_retrieved_pct": 76
+        "comment_retrieved_pct": 78
     },
     {
         "url": "https://www.cbc.ca/radio/thehouse/china-canada-xi-dissidents-kovrig-spavor-1.6323382",
@@ -567,9 +567,9 @@
         "comment_status": "open",
         "html_to_csv": "yes",
         "retrieval_status": "complete",
-        "comment_count_site": "672",
+        "comment_count_site": "1729",
         "comment_count_retrieved": "454",
-        "comment_retrieved_pct": 67
+        "comment_retrieved_pct": 26
     },
     {
         "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-surgeries-north-dakota-fargo-wfpcbc-cbc-1.6319862",
@@ -592,5 +592,16 @@
         "comment_count_site": "2269",
         "comment_count_retrieved": "2016",
         "comment_retrieved_pct": 88
+    },
+    {
+        "url": "https://www.cbc.ca/radio/thehouse/pandemic-covid-vaccine-trucker-convoy-protest-1.6340278",
+        "story_title": "",
+        "story_date": "",
+        "comment_status": "closed",
+        "html_to_csv": "yes",
+        "retrieval_status": "complete",
+        "comment_count_site": "",
+        "comment_count_retrieved": "0",
+        "comment_retrieved_pct": "0"
     }
 ]
