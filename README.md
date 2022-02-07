@@ -17,16 +17,19 @@ View grid of network visualizations <a href="https://sitrucp.github.io/cbc_comme
 <a href="https://www.cbc.ca/news/health/omnicron-covid-varian-travel-holidays-1.6285713">https://www.cbc.ca/news/health/omnicron-covid-varian-travel-holidays-1.6285713</a>
 
 ### WordCloud comment top n words:
+Word size relative to number of comments. Word color doesn't indicate anything variation provided only for esthetic considerations.
 
 <img src="https://github.com/sitrucp/cbc_comments/blob/master/image/word_cloud_health_omnicron-covid-varian-travel-holidays-1.6285713.png" width="600"/>
 
 
 ### WordCloud top n comment usernames:
+Word size relative to number of comments. Word color doesn't indicate anything variation provided only for esthetic considerations.
 
 <img src="https://github.com/sitrucp/cbc_comments/blob/master/image/people_health_omnicron-covid-varian-travel-holidays-1.6285713.png" width="600"/>
 
 
 ### NetworkX comment and reply username network:
+Username red dot size relative to number of comments. Blue line size between usernames relative to number of interactions between usernames (eg comments and replies).
 
 <img src="https://github.com/sitrucp/cbc_comments/blob/master/image/network_health_omnicron-covid-varian-travel-holidays-1.6285713.png" width="600"/>
 
