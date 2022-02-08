@@ -608,11 +608,23 @@
         "url": "https://www.cbc.ca/sports/olympics/winter/dutch-reporter-cut-off-on-air-by-chinese-security-1.6341282",
         "story_title": "Dutch reporter cut off on-air by Chinese security called an isolated incident by IOC",
         "story_date": "2022-02-06",
-        "comment_status": "open",
+        "comment_status": "closed",
         "csv_available": "yes",
-        "retrieval_status": "pending",
-        "comment_count_site": "107",
+        "retrieval_status": "complete",
+        "comment_count_site": "201",
         "comment_count_retrieved": "99",
-        "comment_retrieved_pct": 92
+        "comment_retrieved_pct": 49
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/liberal-mp-politicization-pandemic-1.6343730",
+        "story_title": "Liberal MP Jo\u00ebl Lightbound says his party's COVID policy 'stigmatizes and divides people'",
+        "story_date": "2022-02-08",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "942",
+        "comment_count_retrieved": "942",
+        "comment_retrieved_pct": 100,
+        "csv_available": "yes"
     }
 ]
