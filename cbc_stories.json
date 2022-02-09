@@ -621,10 +621,34 @@
         "story_date": "2022-02-08",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "retrieval_status": "complete",
         "comment_count_site": "942",
         "comment_count_retrieved": "942",
         "comment_retrieved_pct": 100,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/business/travel-rules-canada-1.6342966",
+        "story_title": "Finally ready to travel abroad? Returning home can get complicated",
+        "story_date": "2022-02-08",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2003",
+        "comment_count_retrieved": "1997",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/montreal/legault-restrictions-feb8-1.6343661",
+        "story_title": "Quebec plans to lift most pandemic restrictions by mid-March",
+        "story_date": "2022-02-08",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1186",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0",
+        "csv_available": "no"
     }
 ]
