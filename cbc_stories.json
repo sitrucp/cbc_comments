@@ -621,7 +621,7 @@
         "story_date": "2022-02-08",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "complete",
+        "retrieval_status": "pending",
         "comment_count_site": "942",
         "comment_count_retrieved": "942",
         "comment_retrieved_pct": 100,
