@@ -643,12 +643,24 @@
         "url": "https://www.cbc.ca/news/canada/montreal/legault-restrictions-feb8-1.6343661",
         "story_title": "Quebec plans to lift most pandemic restrictions by mid-March",
         "story_date": "2022-02-08",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "no",
         "retrieval_status": "complete",
-        "comment_count_site": "1269",
+        "comment_count_site": "1289",
         "comment_count_retrieved": "1268",
-        "comment_retrieved_pct": 99,
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/census-2021-release-population-cities-1.6344179",
+        "story_title": "Despite pandemic, Canada's population grows at fastest rate in G7: census",
+        "story_date": "2022-02-10",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1224",
+        "comment_count_retrieved": "1239",
+        "comment_retrieved_pct": 101,
         "csv_available": "yes"
     }
 ]
