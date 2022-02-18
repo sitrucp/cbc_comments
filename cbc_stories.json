@@ -564,7 +564,7 @@
         "url": "https://www.cbc.ca/radio/thehouse/china-canada-xi-dissidents-kovrig-spavor-1.6323382",
         "story_title": "Canada still needs to engage with China despite its human rights record, experts say",
         "story_date": "2022-01-22",
-        "comment_status": "open",
+        "comment_status": "closed",
         "csv_available": "yes",
         "retrieval_status": "complete",
         "comment_count_site": "1729",
@@ -657,10 +657,22 @@
         "story_date": "2022-02-10",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "retrieval_status": "complete",
         "comment_count_site": "1224",
         "comment_count_retrieved": "1239",
         "comment_retrieved_pct": 101,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/ottawa-protests-frozen-bank-accounts-1.6355396",
+        "story_title": "Banks have started to freeze accounts linked to the protests, Freeland says",
+        "story_date": "2022-02-17",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "6572",
+        "comment_count_retrieved": "2247",
+        "comment_retrieved_pct": 34,
         "csv_available": "yes"
     }
 ]
