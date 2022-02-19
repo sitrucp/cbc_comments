@@ -674,5 +674,29 @@
         "comment_count_retrieved": "2247",
         "comment_retrieved_pct": 34,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/radio/thehouse/cbc-the-house-feb-19-1.6356836",
+        "story_title": "CBC Radio's The House: Emergency action in Ottawa",
+        "story_date": "2022-02-19",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2582",
+        "comment_count_retrieved": "2284",
+        "comment_retrieved_pct": 88,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-feb18-2022-1.6356420",
+        "story_title": "Coronavirus: What's happening in Canada and around the world on Feb. 18",
+        "story_date": "2022-02-19",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1582",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0",
+        "csv_available": "no"
     }
 ]
