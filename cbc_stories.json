@@ -693,10 +693,10 @@
         "story_date": "2022-02-19",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
-        "comment_count_site": "1582",
-        "comment_count_retrieved": "",
-        "comment_retrieved_pct": "0",
-        "csv_available": "no"
+        "retrieval_status": "complete",
+        "comment_count_site": "1580",
+        "comment_count_retrieved": "1583",
+        "comment_retrieved_pct": 100,
+        "csv_available": "yes"
     }
 ]
