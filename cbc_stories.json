@@ -698,5 +698,17 @@
         "comment_count_retrieved": "1583",
         "comment_retrieved_pct": 100,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/calgary/alberta-coutts-ottawa-ric-mciver-blockade-mendicino-1.6358520",
+        "story_title": "Alberta government sought aid from Ottawa in midst of Coutts border blockade",
+        "story_date": "2022-02-20",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1708",
+        "comment_count_retrieved": "1724",
+        "comment_retrieved_pct": 100,
+        "csv_available": "yes"
     }
 ]
