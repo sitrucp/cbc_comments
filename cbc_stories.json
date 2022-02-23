@@ -705,10 +705,57 @@
         "story_date": "2022-02-20",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
+        "retrieval_status": "complete",
         "comment_count_site": "1708",
         "comment_count_retrieved": "1724",
         "comment_retrieved_pct": 100,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/ottawa-russia-sanctions-1.6360632",
+        "story_title": "Trudeau announces sanctions on Russia as Moscow ramps up pressure on Ukraine",
+        "story_date": "2022-02-23",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2705",
+        "comment_count_retrieved": "2417",
+        "comment_retrieved_pct": 89,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-feb22-2022-1.6359881",
+        "story_title": "Coronavirus: What's happening in Canada and around the world on Tuesday",
+        "story_date": "2022-02-23",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "1744",
+        "comment_count_retrieved": "1737",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/jean-charest-conservative-leadership-run-1.6360032",
+        "story_title": "Jean Charest considering Conservative leadership run: sources",
+        "story_date": "2022-02-22",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "3094",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0",
+        "csv_available": "no"
+    },
+    {
+        "url": "C:/Users/bb/Anaconda3/envs/venvWordCloud/python.exe \"c:/Users/bb/OneDrive - 009co/data/cbc_comments/cbc_comments_pages.py\"",
+        "story_title": "",
+        "story_date": "",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "",
+        "comment_count_retrieved": "0",
+        "comment_retrieved_pct": "0"
     }
 ]
