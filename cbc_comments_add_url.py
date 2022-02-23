@@ -15,7 +15,8 @@ new_story = {
     "retrieval_status": "pending",
     "comment_count_site": "",
     "comment_count_retrieved": "0",
-    "comment_retrieved_pct": "0"
+    "comment_retrieved_pct": "0",
+    "csv_available": ""
 }
 
 # open json file
