@@ -741,22 +741,10 @@
         "story_date": "2022-02-22",
         "comment_status": "closed",
         "html_to_csv": "no",
-        "retrieval_status": "pending",
-        "comment_count_site": "3242",
-        "comment_count_retrieved": "",
-        "comment_retrieved_pct": "0",
-        "csv_available": "no"
-    },
-    {
-        "url": "C:/Users/bb/Anaconda3/envs/venvWordCloud/python.exe \"c:/Users/bb/OneDrive - 009co/data/cbc_comments/cbc_comments_pages.py\"",
-        "story_title": "",
-        "story_date": "",
-        "comment_status": "open",
-        "html_to_csv": "no",
-        "retrieval_status": "pending",
-        "comment_count_site": "",
-        "comment_count_retrieved": "",
-        "comment_retrieved_pct": "0",
-        "csv_available": "no"
+        "retrieval_status": "complete",
+        "comment_count_site": "3231",
+        "comment_count_retrieved": "3185",
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
     }
 ]
