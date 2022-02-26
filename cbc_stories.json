@@ -746,5 +746,29 @@
         "comment_count_retrieved": "3185",
         "comment_retrieved_pct": 98,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/emergencies-act-lucki-rcmp-1.6364575",
+        "story_title": "Mounties used emergency powers as a 'big deterrent,' says head of RCMP",
+        "story_date": "2022-02-25",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "959",
+        "comment_count_retrieved": "965",
+        "comment_retrieved_pct": 100,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/ukraine-russia-attack-feb24-2022-1.6362512",
+        "story_title": "U.S. says Kyiv 'could well be under siege' as Russian forces close in on Ukrainian capital",
+        "story_date": "2022-02-25",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "3837",
+        "comment_count_retrieved": "3428",
+        "comment_retrieved_pct": 89,
+        "csv_available": "yes"
     }
 ]
