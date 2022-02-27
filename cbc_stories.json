@@ -770,5 +770,29 @@
         "comment_count_retrieved": "3428",
         "comment_retrieved_pct": 89,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/radio/thehouse/russia-ukraine-putin-nuclear-weapons-1.6364554",
+        "story_title": "Russia unlikely to deploy nukes in Ukraine conflict, says ex-NATO deputy",
+        "story_date": "2022-02-26",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2063",
+        "comment_count_retrieved": "1440",
+        "comment_retrieved_pct": 69,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/world/ukraine-russia-military-comparison-1.6365115",
+        "story_title": "Ukraine has will, but Russia has might: How their military forces match up",
+        "story_date": "2022-02-26",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "3560",
+        "comment_count_retrieved": "3518",
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
     }
 ]
