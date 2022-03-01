@@ -794,5 +794,17 @@
         "comment_count_retrieved": "3518",
         "comment_retrieved_pct": 98,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/business/travel-antigen-test-canada-1.6365719",
+        "story_title": "Canada's new travel rules explained",
+        "story_date": "2022-03-01",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "1857",
+        "comment_count_retrieved": "1855",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
     }
 ]
