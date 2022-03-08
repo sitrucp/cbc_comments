@@ -806,5 +806,17 @@
         "comment_count_retrieved": "1855",
         "comment_retrieved_pct": 99,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/trudeau-sanctons-russia-1.6375508",
+        "story_title": "Canada announces new sanctions against Russian individuals",
+        "story_date": "2022-03-07",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2927",
+        "comment_count_retrieved": "2917",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
     }
 ]
