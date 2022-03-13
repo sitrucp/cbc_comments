@@ -810,12 +810,48 @@
     {
         "url": "https://www.cbc.ca/news/politics/trudeau-sanctons-russia-1.6375508",
         "story_title": "Canada announces new sanctions against Russian individuals",
-        "story_date": "2022-03-07",
-        "comment_status": "open",
+        "story_date": "2022-03-08",
+        "comment_status": "closed",
         "html_to_csv": "no",
         "retrieval_status": "complete",
-        "comment_count_site": "2927",
+        "comment_count_site": "2966",
         "comment_count_retrieved": "2917",
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/calgary/opinion-canadian-energy-ceraweek-yedlin-1.6379930",
+        "story_title": "The world needs Canadian oil and gas \u2014 it just doesn't know it yet",
+        "story_date": "2022-03-11",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2008",
+        "comment_count_retrieved": "2008",
+        "comment_retrieved_pct": 100,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/british-columbia/bc-gas-prices-why-so-high-russia-oil-supply-1.6376023",
+        "story_title": "Why are B.C. gas prices surging when the province gets most of its gas from local refineries?",
+        "story_date": "2022-03-09",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2225",
+        "comment_count_retrieved": "2205",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/ukraine-russia-nato-trudeau-1.6376236",
+        "story_title": "Canada increasingly isolated as allies pledge more military funding in response to Ukraine invasion",
+        "story_date": "2022-03-08",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "3340",
+        "comment_count_retrieved": "3332",
         "comment_retrieved_pct": 99,
         "csv_available": "yes"
     }
