@@ -854,5 +854,29 @@
         "comment_count_retrieved": "3332",
         "comment_retrieved_pct": 99,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/science/james-webb-image-1.6387224",
+        "story_title": "Scientists giddy as NASA releases image of distant star, galaxies from James Webb Space Telescope",
+        "story_date": "2022-03-16",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "259",
+        "comment_count_retrieved": "256",
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/angus-reid-pandemic-poll-politics-1.6384927",
+        "story_title": "Canadians sharply and evenly divided over Trudeau's pandemic performance, poll suggests",
+        "story_date": "2022-03-15",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "5014",
+        "comment_count_retrieved": "2331",
+        "comment_retrieved_pct": 46,
+        "csv_available": "yes"
     }
 ]
