@@ -878,5 +878,29 @@
         "comment_count_retrieved": "2331",
         "comment_retrieved_pct": 46,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/wayne-eyrre-house-procurement-1.6390525",
+        "story_title": "Top military leader calls for 'accelerated' defence investments in response to Russian aggression",
+        "story_date": "2022-03-19",
+        "comment_status": "open",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "893",
+        "comment_count_retrieved": "703",
+        "comment_retrieved_pct": 78,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/business/russia-mcdonald-s-logo-1.6389887",
+        "story_title": "Russia aims to open its own version of McDonald's with similar logo after U.S. chain pulls out",
+        "story_date": "2022-03-18",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "621",
+        "comment_count_retrieved": "610",
+        "comment_retrieved_pct": 98,
+        "csv_available": "yes"
     }
 ]
