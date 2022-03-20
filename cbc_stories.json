@@ -883,12 +883,12 @@
         "url": "https://www.cbc.ca/news/politics/wayne-eyrre-house-procurement-1.6390525",
         "story_title": "Top military leader calls for 'accelerated' defence investments in response to Russian aggression",
         "story_date": "2022-03-19",
-        "comment_status": "open",
+        "comment_status": "closed",
         "html_to_csv": "no",
         "retrieval_status": "complete",
-        "comment_count_site": "893",
+        "comment_count_site": "2071",
         "comment_count_retrieved": "703",
-        "comment_retrieved_pct": 78,
+        "comment_retrieved_pct": 33,
         "csv_available": "yes"
     },
     {
@@ -901,6 +901,18 @@
         "comment_count_site": "621",
         "comment_count_retrieved": "610",
         "comment_retrieved_pct": 98,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/health/canada-covid-19-hospitalizations-omicron-ba2-boosters-1.6390333",
+        "story_title": "COVID-19 hasn't gone anywhere in Canada \u2014 and we could still see another surge",
+        "story_date": "2022-03-19",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "3023",
+        "comment_count_retrieved": "2574",
+        "comment_retrieved_pct": 85,
         "csv_available": "yes"
     }
 ]
