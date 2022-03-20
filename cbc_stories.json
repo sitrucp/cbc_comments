@@ -911,8 +911,8 @@
         "html_to_csv": "no",
         "retrieval_status": "complete",
         "comment_count_site": "3023",
-        "comment_count_retrieved": "2574",
-        "comment_retrieved_pct": 85,
+        "comment_count_retrieved": "3013",
+        "comment_retrieved_pct": 99,
         "csv_available": "yes"
     }
 ]
