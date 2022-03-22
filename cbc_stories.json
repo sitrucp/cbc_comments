@@ -914,5 +914,17 @@
         "comment_count_retrieved": "3013",
         "comment_retrieved_pct": 99,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/ukraine-russia-trudeau-nato-putin-1.6390707",
+        "story_title": "The war in Ukraine could force Canada to shed its self-image as a peacekeeper",
+        "story_date": "2022-03-21",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "3351",
+        "comment_count_retrieved": "3223",
+        "comment_retrieved_pct": 96,
+        "csv_available": "yes"
     }
 ]
