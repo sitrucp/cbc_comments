@@ -926,5 +926,41 @@
         "comment_count_retrieved": "3223",
         "comment_retrieved_pct": 96,
         "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/windsor/automotive-announcement-windsor-1.6393463",
+        "story_title": "$4.9B electric vehicle battery plant announced for Windsor, Ont.",
+        "story_date": "2022-03-23",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "complete",
+        "comment_count_site": "2506",
+        "comment_count_retrieved": "2503",
+        "comment_retrieved_pct": 99,
+        "csv_available": "yes"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/conservatives-slam-liberal-power-grab-ndp-pact-1.6393205",
+        "story_title": "Conservative interim leader accuses Liberals of 'power grab' after Trudeau makes a deal with the NDP",
+        "story_date": "2022-03-22",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1875",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0",
+        "csv_available": "no"
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/conservatives-slam-liberal-power-grab-ndp-pact-1.6393205",
+        "story_title": "Conservative interim leader accuses Liberals of 'power grab' after Trudeau makes a deal with the NDP",
+        "story_date": "2022-03-22",
+        "comment_status": "closed",
+        "html_to_csv": "no",
+        "retrieval_status": "pending",
+        "comment_count_site": "1875",
+        "comment_count_retrieved": "",
+        "comment_retrieved_pct": "0",
+        "csv_available": "no"
     }
 ]
