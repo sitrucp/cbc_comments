@@ -7,7 +7,10 @@ cbc_stories_file = os.path.dirname(os.path.abspath(__file__)) + '\cbc_stories.js
 with open(cbc_stories_file) as json_file:
     cbc_stories = json.load(json_file)
 
-all_complete_stories = ([x for x in cbc_stories if x['csv_available'] == 'yes'])
+all_complete_stories = ([x for x in cbc_stories if x['viz_available'] == 'yes' and x['audit_status'] == 'complete'])
+
+print(len(all_complete_stories), "complete stories")
+print(all_complete_stories[-1]['url'])
 
 # loop to get all url comment counts and see if comments closed
 # write results to the url file

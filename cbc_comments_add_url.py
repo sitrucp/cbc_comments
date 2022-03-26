@@ -11,12 +11,12 @@ new_story = {
     "story_title": "",
     "story_date": "",
     "comment_status": "open",
-    "html_to_csv": "no",
+    "csv_available": "no",
+    "audit_status": "pending",
     "retrieval_status": "pending",
     "comment_count_site": "",
     "comment_count_retrieved": "0",
-    "comment_retrieved_pct": "0",
-    "csv_available": ""
+    "comment_retrieved_pct": "0"
 }
 
 # open json file
