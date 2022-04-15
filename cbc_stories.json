@@ -1116,5 +1116,31 @@
         "comment_count_site": "1270",
         "comment_count_retrieved": "1271",
         "comment_retrieved_pct": 100
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/british-columbia/heat-resiliency-cities-ted-2022-1.6418765",
+        "story_title": "'Heat officer' at TED conference outlines desperate need for cities to cope with rising temperatures",
+        "story_date": "2022-04-14",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "413",
+        "comment_count_retrieved": "411",
+        "comment_retrieved_pct": 99
+    },
+    {
+        "url": "https://www.cbc.ca/news/business/economic-health-column-don-pittis-1.6418102",
+        "story_title": "Canadians too anxious about the future to enjoy the vibrant present, say economists",
+        "story_date": "2022-04-14",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "6823",
+        "comment_count_retrieved": "3381",
+        "comment_retrieved_pct": 49
     }
 ]

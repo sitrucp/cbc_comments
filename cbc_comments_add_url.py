@@ -12,6 +12,7 @@ new_story = {
     "story_date": "",
     "comment_status": "open",
     "csv_available": "no",
+    "viz_available": "no",
     "audit_status": "pending",
     "retrieval_status": "pending",
     "comment_count_site": "",
