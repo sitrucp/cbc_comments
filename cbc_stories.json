@@ -1155,5 +1155,18 @@
         "comment_count_site": "2952",
         "comment_count_retrieved": "2934",
         "comment_retrieved_pct": 99
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/british-columbia/long-wait-times-bc-surgery-abroad-1.6445382",
+        "story_title": "After months in pain, these patients paid thousands for surgery outside of B.C.",
+        "story_date": "2022-05-08",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "1765",
+        "comment_count_retrieved": "1767",
+        "comment_retrieved_pct": 100
     }
 ]
