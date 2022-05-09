@@ -1142,5 +1142,18 @@
         "comment_count_site": "6823",
         "comment_count_retrieved": "3381",
         "comment_retrieved_pct": 49
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/trudeau-ukraine-visit-1.6445929",
+        "story_title": "Trudeau says Canada backs Ukraine in seeking justice for Putin's 'heinous war crimes'",
+        "story_date": "2022-05-09",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "2952",
+        "comment_count_retrieved": "2934",
+        "comment_retrieved_pct": 99
     }
 ]
