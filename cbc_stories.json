@@ -1207,5 +1207,18 @@
         "comment_count_site": "5348",
         "comment_count_retrieved": "3154",
         "comment_retrieved_pct": 58
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/conservative-french-language-leadership-debate-1.6464230",
+        "story_title": "Conservative leadership candidates spar over trucker convoy, bitcoin in fiery French debate",
+        "story_date": "2022-05-26",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "1365",
+        "comment_count_retrieved": "1364",
+        "comment_retrieved_pct": 99
     }
 ]
