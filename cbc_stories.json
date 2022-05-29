@@ -1220,5 +1220,18 @@
         "comment_count_site": "1365",
         "comment_count_retrieved": "1364",
         "comment_retrieved_pct": 99
+    },
+    {
+        "url": "https://www.cbc.ca/news/canada/edmonton/feral-pigs-wild-boar-alberta-1.6468875",
+        "story_title": "Without intervention, 'superpigs' could soon invade Alberta cities, researcher warns",
+        "story_date": "2022-05-29",
+        "comment_status": "open",
+        "csv_available": "yes",
+        "viz_available": "yes",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "1065",
+        "comment_count_retrieved": "1008",
+        "comment_retrieved_pct": 94
     }
 ]
