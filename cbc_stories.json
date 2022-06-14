@@ -1233,5 +1233,18 @@
         "comment_count_site": "1065",
         "comment_count_retrieved": "1008",
         "comment_retrieved_pct": 94
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/government-end-vax-mandates-1.6487585",
+        "story_title": "Ottawa set to announce end to vaccine mandates for domestic travel, outbound flights",
+        "story_date": "2022-06-14",
+        "comment_status": "closed",
+        "csv_available": "yes",
+        "viz_available": "no",
+        "audit_status": "complete",
+        "retrieval_status": "complete",
+        "comment_count_site": "3150",
+        "comment_count_retrieved": "3243",
+        "comment_retrieved_pct": 102
     }
 ]
