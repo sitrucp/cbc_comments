@@ -6,7 +6,7 @@ Repository contains code used to
 2) Create WordCloud word clouds of top n words and usernames.
 3) Create NetworkX network visualizations of comment and reply usernames.
 
-Read more details on blog post <a href="https://009co.com/?p=1702">here</a>.
+Read more details on blog post <a href="https://curtispokrant.com/posts/cbc-news-article-comment-scraping/">here</a>.
 
 View list of story word cloud and network visualizations <a href="https://sitrucp.github.io/cbc_comments/index.html">here</a>.
 
